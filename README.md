@@ -2,13 +2,16 @@
 Repositório com exemplos básicos de código Python para ciência de dados. Organizado em módulos para facilitar o reuso e aprendizado.
 
 ## 📁 Estrutura
+
+```plaintext
 dados_basico_python/
- ┣ limpeza_dados/              # Tratamento de nulos, normalização, padronização
- ┣ manipulacao/                # Uso de groupby, merge, join com Pandas
- ┣ visualizacao/               # Gráficos com Matplotlib e Seaborn
- ┣ modelagem/                  # Modelos básicos: regressão linear e classificação
- ┣ README.md                   # Descrição do projeto
- ┗ requirements.txt            # Bibliotecas utilizadas
+ ├── limpeza_dados/     # Tratamento de nulos, normalização, padronização
+ ├── manipulacao/       # Uso de groupby, merge, join com Pandas
+ ├── visualizacao/      # Gráficos com Matplotlib e Seaborn
+ ├── modelagem/         # Modelos básicos: regressão linear e classificação
+ ├── README.md          # Descrição do projeto
+ └── requirements.txt   # Bibliotecas utilizadas
+
 
 ## 🚀 Como usar
 Clone o repositório:
